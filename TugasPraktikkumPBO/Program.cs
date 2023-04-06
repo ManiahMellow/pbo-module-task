@@ -12,7 +12,7 @@ using System.Threading.Tasks;
     }
 
 
-    //CHILDCLASS PROCESSOR
+    //CHILDCLASS DARI PROCESSOR
     public class Intel : Processor
     {
         public Intel()
@@ -21,7 +21,7 @@ using System.Threading.Tasks;
         }
     }
     
-    //CHILDCLASS PROCESSOR
+    //CHILDCLASS DARI PROCESSOR
     public class AMD : Processor
     {
         public AMD()
@@ -30,7 +30,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS INTEL
+    //CHILDCLASS DARI INTEL
     public class Corei3 : Intel
     {
         public Corei3()
@@ -39,7 +39,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS INTEL
+    //CHILDCLASS DARI INTEL
     public class Corei5 : Intel
     {
         public Corei5()
@@ -48,7 +48,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS INTEL
+    //CHILDCLASS DARI INTEL
     public class Corei7 : Intel
     {
         public Corei7()
@@ -57,7 +57,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS AMD
+    //CHILDCLASS DARI AMD
     public class Ryzen : AMD
     {
         public Ryzen()
@@ -66,7 +66,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS AMD
+    //CHILDCLASS DARI AMD
     public class ATHLON : AMD
     {
         public ATHLON()
@@ -81,7 +81,7 @@ using System.Threading.Tasks;
         public string merk;
     }
 
-    //CHILDCLASS VGA
+    //CHILDCLASS DARI VGA
     public class Nvidia : VGA
     {
         public Nvidia()
@@ -90,7 +90,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS VGA
+    //CHILDCLASS DARI VGA
     public class amd : VGA
     {
         public amd()
@@ -118,7 +118,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS LAPTOP
+    //CHILDCLASS DARI LAPTOP
     public class ASUS : Laptop
     {
         public ASUS()
@@ -127,7 +127,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS LAPTOP
+    //CHILDCLASS DARI LAPTOP
     public class ACER : Laptop
     {
         public ACER()
@@ -136,7 +136,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS LAPTOP
+    //CHILDCLASS DARI LAPTOP
     public class Lenovo : Laptop
     {
         public Lenovo()
@@ -145,7 +145,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS ASUS
+    //CHILDCLASS DARI ASUS
     public class ROG : ASUS
     {
         public ROG()
@@ -154,7 +154,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS ASUS
+    //CHILDCLASS DARI ASUS
     public class Vivobook : ASUS
     {
         public Vivobook()
@@ -167,7 +167,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS ACER    
+    //CHILDCLASS DARI ACER    
     public class Swift : ACER
     {
         public Swift()
@@ -176,7 +176,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS ACER
+    //CHILDCLASS DARI ACER
     public class Predator : ACER
     {
         public Predator()
@@ -189,7 +189,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS LENOVO    
+    //CHILDCLASS DARI LENOVO    
     public class IdeaPad : Lenovo
     {
         public IdeaPad()
@@ -198,7 +198,7 @@ using System.Threading.Tasks;
         }
     }
 
-    //CHILDCLASS LENOVO
+    //CHILDCLASS DARI LENOVO
     public class Legion : Lenovo
     {
         public Legion()
