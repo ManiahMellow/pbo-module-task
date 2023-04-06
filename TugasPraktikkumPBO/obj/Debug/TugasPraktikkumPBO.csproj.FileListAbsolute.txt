@@ -1,0 +1,8 @@
+D:\Application\source\repos\TugasPraktikkumPBO\bin\Debug\TugasPraktikkumPBO.exe.config
+D:\Application\source\repos\TugasPraktikkumPBO\bin\Debug\TugasPraktikkumPBO.exe
+D:\Application\source\repos\TugasPraktikkumPBO\bin\Debug\TugasPraktikkumPBO.pdb
+D:\Application\source\repos\TugasPraktikkumPBO\obj\Debug\TugasPraktikkumPBO.csproj.AssemblyReference.cache
+D:\Application\source\repos\TugasPraktikkumPBO\obj\Debug\TugasPraktikkumPBO.csproj.SuggestedBindingRedirects.cache
+D:\Application\source\repos\TugasPraktikkumPBO\obj\Debug\TugasPraktikkumPBO.csproj.CoreCompileInputs.cache
+D:\Application\source\repos\TugasPraktikkumPBO\obj\Debug\TugasPraktikkumPBO.exe
+D:\Application\source\repos\TugasPraktikkumPBO\obj\Debug\TugasPraktikkumPBO.pdb
